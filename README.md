@@ -1,2 +1,2 @@
 # Rocket-Rollers
-Code for the arduino and the apk file for the mobile app
+I worked with an engineering team. This project utilizes Arduino, which is an electronic platform that works like a transmitter. My primary role in this project is to develop an app that maneuvers the motor and structure the hardware and electrical wirings in the motors. This repository conatins the code for the arduino and the apk file for the mobile app. The communication between the arduino and the mobile app is through bluetooth.
